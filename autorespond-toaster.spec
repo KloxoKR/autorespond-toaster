@@ -171,14 +171,14 @@ rm -rf %{_tmppath}/%{name}-%{pversion}-gcc
 - Deleted Mandrake Release Autodetection (creates problems)
 * Fri Aug 16 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.7.2.0.2-1
 - New version: 0.7 toaster (rebuild with 0.7 spec)
-* Thu Aug 13 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.6.2.0.2-1
+* Tue Aug 13 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.6.2.0.2-1
 - New version: 0.6 toaster.
 * Mon Aug 12 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.5.2.0.2-1
 - Checks for gcc-3.2 (default compiler from now)
 - New version: 0.5 toaster.
-* Tue Aug 08 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.4.2.0.2-1
+* Thu Aug 08 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.4.2.0.2-1
 - Rebuild against 0.4 toaster
-* Thu Jul 30 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.3.2.0.2-2
+* Tue Jul 30 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.3.2.0.2-2
 - Now packages have got 'no sex': you can rebuild them with command line
   flags for specifics targets that are: RedHat, Trustix, and of course
   Mandrake (that is default)
